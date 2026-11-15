@@ -1,0 +1,10 @@
+# Protect login credentials
+user.txt
+
+# Generated reports
+task_overview.txt
+user_overview.txt
+
+# Python temporary files
+__pycache__/
+*.pyc
